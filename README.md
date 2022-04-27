@@ -1,2 +1,2 @@
 # QuickMatplot
-A wrapper python scipt for quickly generating matplotlib figures 
+A wrapper python script for quickly generating matplotlib figures 
